@@ -1,6 +1,6 @@
-# HLS.js test
+# HLS.js Example
 
-## com.metrological.app.hlsjs-test
+## com.metrological.app.hlsjs-example
 
 ### Getting started
 
